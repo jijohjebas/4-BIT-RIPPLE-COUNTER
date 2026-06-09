@@ -24,13 +24,27 @@ In timing diagram Q0 is changing as soon as the negative edge of clock pulse is 
 
 **Procedure**
 
-/* write all the steps invloved */
+1.Open Quartus Prime and create a new project.
+
+2.Create a new Verilog HDL File and enter the code for the 4-bit Ripple Counter.
+
+3.Save the file with a .v extension and set it as the Top-Level Entity.
+
+4.Compile the design using Processing → Start Compilation.
+
+5.Verify that the compilation completes without errors.
+
+6.Open Tools → Netlist Viewers → RTL Viewer to view the RTL schematic.
+
+7.Create a waveform file and add the clock (clk) and output (q[3:0]) signals.
+
+8.Apply a clock waveform and run the simulation.
+
+9.Observe the timing diagram and verify that the counter counts from 0000 to 1111 in binary.
 
 **PROGRAM**
 
-/* Program for 4 Bit Ripple Counter and verify its truth table in quartus using Verilog programming.
-
- Developed by: RegisterNumber:212225040156
+ Developed by: 212225040156 
 ```
 module bitripple(
    input  wire clk,      
@@ -79,4 +93,5 @@ endmodule
 <img width="1067" height="590" alt="image" src="https://github.com/user-attachments/assets/54526219-3bc5-4c9c-be1f-4006bcfeb08d" />
 
 **RESULTS**
-Thus we go the output.
+
+Thus we got the output.
