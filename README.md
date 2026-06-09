@@ -87,10 +87,11 @@ module bitripple(
 endmodule
 ```
 **RTL LOGIC FOR 4 Bit Ripple Counter**
-<img width="1077" height="598" alt="image" src="https://github.com/user-attachments/assets/14b310c2-5ac6-43d3-bd31-32e26028960e" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8cf68bca-708c-43b4-b612-e5271510888f" />
+
 
 **TIMING DIGRAMS FOR 4 Bit Ripple Counter**
-<img width="1067" height="590" alt="image" src="https://github.com/user-attachments/assets/54526219-3bc5-4c9c-be1f-4006bcfeb08d" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/be9f603d-0d65-4013-aa99-a67cb31d9aa4" />
 
 **RESULTS**
 
